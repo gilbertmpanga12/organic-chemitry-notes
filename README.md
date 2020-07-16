@@ -9,4 +9,4 @@ These are notes are will be subjected to many changes and are not final
 * Understand how things work
 
 # Sources used for these notes && Achknowledgements;-
-* Organic Chemistry by Paula Yarnis
+* Organic Chemistry by Paula Yurkanis Bruice
