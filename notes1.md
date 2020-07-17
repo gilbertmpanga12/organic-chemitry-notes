@@ -46,9 +46,14 @@ mass number, they may have varrying neutron count, e.g 98.89% of carbon have
 6 neutrons while 1.11% have 7 neutrons . Different variations of carbon atoms are called
 isotopes eg c12, c13, c14
 * Atomic mass;- Weighted average of its isotopes
+* Atomic mass == mass number
 # Half-life;- Is the time it takes for a nuclei to decay
 * Molecular mass? sum of atomic mass of all atoms in a molecule.
 # What is a moleucule? Is a group of one or more atoms held together by bonds.
+
+#Isotopes && Isobars
+* Isotopes;- same element with same number of protons but different number of neutrons
+* Isobars;- different elements with same atomic mass.
 
 
 
