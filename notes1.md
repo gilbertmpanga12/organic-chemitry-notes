@@ -42,7 +42,7 @@ new ones.
 * Atomic Number;- Is the number of protons in its nucleus. Each element has a unique
 atomic number e.g carbon is 6. Atomic number is a constant.
 * Atomic Mass;- Is the sum of protons && neutrons. Although some elements may have same
-mass number, they may have varrying neutron count, e.g 98.89% of carbon have
+atomic number, they may have varrying neutron count, e.g 98.89% of carbon have
 6 neutrons while 1.11% have 7 neutrons . Different variations of carbon atoms are called
 isotopes eg c12, c13, c14
 * Atomic mass;- Weighted average of its isotopes
